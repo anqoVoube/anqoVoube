@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anqoVoube
-- 👀 I’m interested in modeling 3D cars.
-- 🌱 I’m currently learning full stack development.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in back-end development.
+- 🌱 I’m currently learning back-end developing.
+- 💞️ I’m looking to collaborate on any company.
 - 📫 How to reach me @youngerwolf on telegram or milsolve@gmail.com
 
 <!---
