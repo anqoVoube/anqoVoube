@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anqoVoube
+- 👋 Hi, I’m Bakhriddinov Jamoliddin
 - 👀 I’m interested in back-end development.
-- 🌱 I’m currently learning back-end developing.
+- 🌱 I’m currently learning celery and microsystems.
 - 💞️ I’m looking to collaborate on any company.
 - 📫 How to reach me @youngerwolf on telegram or milsolve@gmail.com
 
