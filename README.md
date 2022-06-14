@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bakhriddinov Jamoliddin
 - 👀 I’m interested in back-end development.
 - 🌱 I’m currently learning celery and microsystems.
-- 💞️ I’m looking to collaborate on any company.
+- 💞️ I am employed by ZK (Zamonaviy Komunikatsiyalar) LLC in Uzbekistan.
 - 📫 How to reach me @youngerwolf on telegram or milsolve@gmail.com
 
 <!---
