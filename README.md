@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bakhriddinov Jamoliddin
-- 👀 I’m interested in back-end development.
-- 💞️ I am employed by American Airline Company as a Back-End engineer.
+- 👀 I’m interested in back-end development. Currently programming in Rust.
 - 📫 How to reach me @youngerwolf on telegram or milsolve@gmail.com
 
 <!---
